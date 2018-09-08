@@ -1,0 +1,16 @@
+Diego Sait Grande Camacho
+08-09-2018
+
+1. Si, pues la clase RobotCasero tiene un metodo con el mismo nombre que la clase padre.
+
+2. public int metodoA(int[] vec , pos){
+    int sum=0, i=0;
+    while (i<=pos){
+        sum+=vec[i];
+        i++:
+    }
+    return sum;
+}
+
+
+3. 
